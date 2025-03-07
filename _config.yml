@@ -116,7 +116,6 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "University of Seoul, AI department"
   location         : "South Korea"
-  email            : "hwpark03@uos.ac.kr"
 
   links:
     - label: "Email"
