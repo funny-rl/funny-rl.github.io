@@ -266,7 +266,6 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
 
-
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
@@ -277,9 +276,6 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
-cv_archive:
-  type: liquid
-  path: /cv/
 category_archive:
   type: liquid
   path: /categories/
@@ -289,15 +285,12 @@ tag_archive:
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
-    - cv
     - categories
     - tags
   layouts:
-    cv: archive-taxonomy
     category: archive-taxonomy
     tag: archive-taxonomy
   permalinks:
-    cv: /cv/:name/
     category: /categories/:name/
     tag: /tags/:name/
 
