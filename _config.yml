@@ -21,7 +21,7 @@ title                    : "Hyunwoo Park's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Hyunwoo Park"
-description              : "An amazing website."
+description              : "Many of life’s failures are people who did not realize how close they were to success when they gave up."
 url                      : "https://funny-rl.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
