@@ -114,7 +114,7 @@ analytics:
 author:
   name             : "Hyunwoo Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : # "I am an **amazing** person."
+  bio              : "University of Seoul, AI department"
   location         : "South Korea"
   email            : "hwpark03@uos.ac.kr"
 
