@@ -129,7 +129,7 @@ author:
       # url: "https://twitter.com/"
     - label: "CV"
       icon: "fa-regular fa-id-badge"
-      url: "https://github.com/funny-rl/_pages/cv.md"
+      url: "https://github.com/funny-rl/cv/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/funny-rl"
