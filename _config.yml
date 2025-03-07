@@ -308,7 +308,7 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      permalink: /:path/:basename/
+      permalink: /:basename/
   - scope:
       path: ""
       type: posts
