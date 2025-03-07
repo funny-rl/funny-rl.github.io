@@ -121,21 +121,12 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "hwpark03@uos.ac.kr"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "CV"
-      icon: "fa-regular fa-id-badge"
-      url: "_pages/cv/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/funny-rl"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "CV"
+      icon: "fa-regular fa-id-badge"
+      url: "_pages/cv/"
 
 # Site Footer
 footer:
@@ -143,9 +134,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/funny-rl"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
