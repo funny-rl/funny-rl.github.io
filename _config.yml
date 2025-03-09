@@ -119,15 +119,9 @@ author:
   email            : "hwpark03@uos.ac.kr"
 
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "hwpark03@uos.ac.kr"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+    # - label: "Email"
+    #   icon: "fas fa-fw fa-envelope-square"
+    #   url: "hwpark03@uos.ac.kr"
     - label: "CV"
       icon: "fa-regular fa-id-badge"
       url: "/cv/"
@@ -141,12 +135,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/funny-rl"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
 
 
 # Reading Files
