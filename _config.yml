@@ -116,6 +116,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "University of Seoul, AI department"
   location         : "South Korea"
+  email            : "hwpark03@uos.ac.kr"
 
   links:
     - label: "Email"
@@ -140,9 +141,6 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/funny-rl"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
@@ -300,12 +298,12 @@ compress_html:
 
 # Defaults
 defaults:
-  # _posts
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      permalink: /:basename/
+  # # _posts
+  # - scope:
+  #     path: "_pages"
+  #     type: pages
+  #   values:
+  #     permalink: /:basename/
   - scope:
       path: ""
       type: posts
