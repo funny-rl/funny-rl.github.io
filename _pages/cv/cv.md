@@ -4,15 +4,16 @@ title: "CV (Curriculum Vitae)"
 permalink: "/cv/"
 ---
 
+
+
 # <center> Hyunwoo Park</center>
 
 <center> hwpark03@uos.ac.kr</center>
 
-
-
 ### <center> Education </center>
 
-<hr style="border: none; border-top: 1px solid black;">
+<hr style="border: none; border-top: 1px solid black; width: 1000px; max-width: 100%; margin: 0 auto;">
+
 
 #### University of Seoul (2022-) 
 
@@ -23,25 +24,27 @@ permalink: "/cv/"
 
 ### <center> Research Experiences</center>
 
-<hr style="border: none; border-top: 1px solid black;">
+<hr style="border: none; border-top: 1px solid black; width: 1000px; max-width: 100%; margin: 0 auto;">
+
 
 #### Undergraduate Research Student
 
- - **CIDA LAB (Oct. 2023 ~ )**
+ - **CIDA LAB (Oct. 2023 - )**
 
 
 
 #### Teaching Assisant (TA)
 
- - **UOS AI20041 Reinforcement learning (Sep. 2024 ~ Dec. 2024)**
+ - **UOS AI20041 Reinforcement learning (Sep. 2024 - Dec. 2024)**
    - Management of a RL term project using the Car racing (Gymnasium) environment  [[Term project link](https://github.com/UoS-CIDA-Lab/AI20041_CarRacing_Project)]
    - RL code assignment [[Assignment Link](https://github.com/funny-rl/RL_Public_Assignments/tree/main)]
- - **UOS AI20010 Introduction to Algorithms (Mar. 2024 ~ Jul. 2024)**
+ - **UOS AI20010 Introduction to Algorithms (Mar. 2024 - Jul. 2024)**
    - Assignment Management
 
 ### <center> Research Interests </center>
 
-<hr style="border: none; border-top: 1px solid black;">
+<hr style="border: none; border-top: 1px solid black; width: 1000px; max-width: 100%; margin: 0 auto;">
+
 
 ##### Work in Progress
 
@@ -54,7 +57,7 @@ permalink: "/cv/"
 
 ### <center> Papers </center>
 
-<hr style="border: none; border-top: 1px solid black;">
+<hr style="border: none; border-top: 1px solid black; width: 1000px; max-width: 100%; margin: 0 auto;">
 
 ##### Under Review
 
@@ -67,20 +70,22 @@ permalink: "/cv/"
 
 #####  Withdraw
 
- -	**BMRL: Backward Multi-Agent Reinforcement Learning with Permutation-Free Neural Networks** [[Paper](https://github.com/funny-rl/Papers/tree/main/withdraw)] 
+ -	**BMRL: Backward Multi-Agent Reinforcement Learning with Permutation-Free Neural Networks** [[Paper](https://github.com/funny-rl/Papers/tree/main/withdraw)]
 
 ### <center> Projects </center>
 
-<hr style="border: none; border-top: 1px solid black;">
+<hr style="border: none; border-top: 1px solid black; width: 1000px; max-width: 100%; margin: 0 auto;">
 
- - **Toward Clear Object 3D Reconstruction Using Visual Hulls (Sep. 2024 ~ Dec. 2024)** 
+
+ - **Toward Clear Object 3D Reconstruction Using Visual Hulls (Sep. 2024 - Dec. 2024)** 
+   
    - Capstone Design Term Project conducted as a Co-researcher [[Code Link](https://github.com/Soooo-hong/cap_2)] [[Report Link](https://github.com/funny-rl/Capstone_Term_Project/blob/main/_capstone2024_2__project.pdf)]
-
- - **Emotion Classification in Images Using Teachable Machine (Sep. 2023 ~ Dec.2023)** 
+   
+ - **Emotion Classification in Images Using Teachable Machine (Sep. 2023 - Dec.2023)** 
 
    - Term Project conducted during the ML Lecture [[Report Link](https://github.com/CHAT-UOS/ml-team_project/)]
 
- - **AlphaOmok project with MCTS (Sep. 2023 ~ Dec.2023)**
+ - **AlphaOmok project with MCTS (Sep. 2023 - Dec.2023)**
 
    - Term Project conducted during the RL Lecture [[Code Link](https://github.com/CHAT-UOS/CHAT-UOS.github.io)]
 
@@ -88,10 +93,7 @@ permalink: "/cv/"
 
 ### <center> Awards and Honors </center>
 
-<hr style="border: none; border-top: 1px solid black;">
-
-	- **2022 Department of Artificial Intelligence Competition Award**
-	- **2023 Department of Artificial Intelligence Competition Award**
+<hr style="border: none; border-top: 1px solid black; width: 1000px; max-width: 100%; margin: 0 auto;">
 
 
-
+**2023 Department of Artificial Intelligence Competition Award**
